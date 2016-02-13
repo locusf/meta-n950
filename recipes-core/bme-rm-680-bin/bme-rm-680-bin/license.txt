@@ -1,0 +1,9 @@
+Copyright (c) Nokia Corporation 2010
+All Rights Reserved.
+
+This material, including documentation and any related computer programs, is
+protected by copyright controlled by Nokia Corporation. All rights are
+reserved. Modifying, adapting and/or translating, any or all of this material
+requires the prior written consent of Nokia. Distribution for commercial
+purposes not allowed without prior written approval from Nokia.
+
